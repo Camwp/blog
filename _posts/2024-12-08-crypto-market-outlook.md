@@ -6,6 +6,7 @@ tags: [crypto, btc, eth, polygon, dogecoin, market, trends, prediction]
 image:
   path: /assets/img/2024-12-08-crypto-market-outlook/img/cryptochart.jpg
   alt: "Graph showing recent cryptocurrency market trends"
+comments: true
 ---
 
 # Cryptocurrency Market Outlook: Recent Trends and Predictions
