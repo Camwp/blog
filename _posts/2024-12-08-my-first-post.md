@@ -25,7 +25,7 @@ I’m a tech enthusiast with a passion for innovation, creativity, and problem-s
 
 - **Favorite Programming Language:** Python 🐍
 - **Favorite Gadget:** My trusty Raspberry Pi 🥧
-- **Crypto of Choice:** Polygon ![polygon](/assets/img/2024-12-08-my-first-post/polygon.webp){: w="15" h="15" .shadow .rounded-10 }
+- **Crypto of Choice:** Polygon ![polygon](/assets/img/2024-12-08-my-first-post/img/polygon.webp){: w="15" h="15" .shadow .rounded-10 }
 
 ---
 
