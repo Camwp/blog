@@ -6,7 +6,7 @@ tags: [introduction, crypto, tech, programming, hobbies, investments, reviews]
 math: true
 mermaid: true
 image:
-  path: /assets/img/2024-12-08-my-first-post/welcome-post-banner.webp
+  path: /assets/img/2024-12-08-my-first-post/img/welcome-post-banner.webp
   alt: "Abstract digital concepts and ideas"
 comments: false
 ---
@@ -67,7 +67,7 @@ This blog will be a space for me to share my thoughts, experiences, and projects
 
 ### **Visual Showcase**
 
-![Creative Workbench](/assets/img/2024-12-08-my-first-post/sidebyside.png){: w="800" h="400" .shadow .rounded-10 }
+![Creative Workbench](/assets/img/2024-12-08-my-first-post/img/sidebyside.png){: w="800" h="400" .shadow .rounded-10 }
 > *A glimpse into my workspace, where ideas come to life.*
 
 ---
