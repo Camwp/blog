@@ -4,7 +4,7 @@ date: 2024-12-08 14:15:00 +0000
 categories: [cryptocurrency, analysis]
 tags: [crypto, btc, eth, polygon, dogecoin, market, trends, prediction]
 image:
-  path: /img/cryptochart.jpg
+  path: /assets/img/cryptochart.jpg
   alt: "Graph showing recent cryptocurrency market trends"
 ---
 
@@ -48,7 +48,7 @@ The cryptocurrency market has been an exciting space over the past few days, sho
 
 ## Visualizing the Market
 
-![Cryptocurrency Performance](/img/figure_1.png){: w="900" h="500" .shadow .rounded-10 }
+![Cryptocurrency Performance](/assets/img/figure_1.png){: w="900" h="500" .shadow .rounded-10 }
 
 > "The chart above highlights the 7-day performance of BTC, ETH, MATIC, and DOGE. The strong upward trends reflect renewed investor confidence as the market enters a bullish phase."
 {: .prompt-info }
