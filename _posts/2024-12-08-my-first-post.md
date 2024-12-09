@@ -101,25 +101,27 @@ $$
 ### **Interactive Diagram**
 
 ```mermaid
-graph TD
-A[Tech] --> B[Programming]
-B --> F[Game/App/Web Dev]
-A --> C[Device Reviews]
-A --> D[Cryptocurrency]
-D --> E[Blockchain Concepts]
-```
+mindmap
+  root((Explore))
+    Business
+      Investments
+        Market / Stocks
+      Strategies
+      Ideas   
+    Tech
+      Game, App<br/>And Web Dev
+      Blockchain Concepts
+        Cryptocurrency
+        DAPPS
+    Hobbies
+      TCG
+        Pokemon
+        Sports
+      Sports
+        Onewheel
+        
 
-```mermaid
-graph TD
-A[Business]--> B[Management]
-A--> D[Development]
-```
-
-```mermaid
-graph TD
-A[Hobbies] --> B[Cars]
-A--> C[OneWheel]
-A--> D[TCG]
+        
 ```
 
 ---
