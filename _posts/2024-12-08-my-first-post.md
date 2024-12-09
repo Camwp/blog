@@ -6,7 +6,7 @@ tags: [introduction, crypto, tech, programming, hobbies, investments, reviews]
 math: true
 mermaid: true
 image:
-  path: /img/welcome-post-banner.webp
+  path: /assets/img/2024-12-08-my-first-post/welcome-post-banner.webp
   alt: "Abstract digital concepts and ideas"
 comments: false
 ---
@@ -25,7 +25,7 @@ I’m a tech enthusiast with a passion for innovation, creativity, and problem-s
 
 - **Favorite Programming Language:** Python 🐍
 - **Favorite Gadget:** My trusty Raspberry Pi 🥧
-- **Crypto of Choice:** Polygon ![polygon](/img/polygon.webp){: w="15" h="15" .shadow .rounded-10 }
+- **Crypto of Choice:** Polygon ![polygon](/assets/img/2024-12-08-my-first-post/polygon.webp){: w="15" h="15" .shadow .rounded-10 }
 
 ---
 
@@ -67,7 +67,7 @@ This blog will be a space for me to share my thoughts, experiences, and projects
 
 ### **Visual Showcase**
 
-![Creative Workbench](/img/sidebyside.png){: w="800" h="400" .shadow .rounded-10 }
+![Creative Workbench](/assets/img/2024-12-08-my-first-post/sidebyside.png){: w="800" h="400" .shadow .rounded-10 }
 > *A glimpse into my workspace, where ideas come to life.*
 
 ---
