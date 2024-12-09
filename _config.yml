@@ -14,9 +14,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Reasoned Flow # the main title
+title: Casual Horizons Blog # the main title
 
-tagline: A blog dedicated to my knowledge # it will display as the subtitle
+tagline: A peronsal blog dedicated to my knowledge, insights, & interests # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

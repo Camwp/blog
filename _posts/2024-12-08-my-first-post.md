@@ -103,24 +103,29 @@ $$
 ```mermaid
 mindmap
   root((Explore))
-    Business
+    (Business]
       Investments
-        Market / Stocks
+        (Market / Stocks)
       Strategies
       Ideas   
-    Tech
+    (Tech]
       Game, App<br/>And Web Dev
       Blockchain Concepts
-        Cryptocurrency
-        DAPPS
-    Hobbies
+        (Cryptocurrency)
+        (DAPPS)
+      Reviews
+    (Hobbies]
       TCG
-        Pokemon
-        Sports
+        (Pokemon)
+        (Sports)
       Sports
-        Onewheel
+        (Onewheel)
+      Gaming
+        (News / Updates Upcoming-games)
         
 
+
+        
         
 ```
 

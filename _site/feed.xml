@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Reasoned Flow</title>
+  <title>Casual Horizons Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-09T10:22:34-08:00</updated>
+  <updated>2024-12-09T10:40:44-08:00</updated>
   <author>
     <name>Cameron Pedro</name>
     <uri>http://localhost:4000/</uri>
@@ -52,7 +52,7 @@ The cryptocurrency market has been an exciting space over the past few days, sho
     <link href="http://localhost:4000/posts/my-first-post/" rel="alternate" type="text/html" title="Welcome to My Blog" />
     <published>2024-12-08T06:00:00-08:00</published>
   
-    <updated>2024-12-09T10:00:17-08:00</updated>
+    <updated>2024-12-09T10:24:04-08:00</updated>
   
     <id>http://localhost:4000/posts/my-first-post/</id>
     <content type="text/html" src="http://localhost:4000/posts/my-first-post/" />
