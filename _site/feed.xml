@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Casual Horizons Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-09T11:04:34-08:00</updated>
+  <updated>2024-12-10T09:14:44-08:00</updated>
   <author>
     <name>Cameron Pedro</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,38 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>How to Set Up a Jellyfin Server on a Raspberry Pi</title>
+    <link href="http://localhost:4000/posts/jellyfin-setup/" rel="alternate" type="text/html" title="How to Set Up a Jellyfin Server on a Raspberry Pi" />
+    <published>2024-12-10T01:00:00-08:00</published>
+  
+    <updated>2024-12-10T01:00:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/jellyfin-setup/</id>
+    <content type="text/html" src="http://localhost:4000/posts/jellyfin-setup/" />
+    <author>
+      <name>Cameron Pedro</name>
+    </author>
+
+  
+    
+    <category term="raspberry-pi" />
+    
+    <category term="media-server" />
+    
+  
+
+  <summary>Jellyfin is a fantastic open-source media server that allows you to stream your media to various clients without any paywalls or restrictions. Unlike its alternatives, Plex and Emby, Jellyfin is completely free-to-use, making it an excellent choice for Raspberry Pi enthusiasts.
+
+In this guide, we’ll show you how to set up Jellyfin on a Raspberry Pi and access it via its web interface.
+
+
+
+What i...</summary>
+
+  </entry>
 
   
   <entry>
